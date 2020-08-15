@@ -1,7 +1,8 @@
 ### Hi there! 🙋‍♀️
 I am Thana, a budding tech enthusiast and a computer science graduate student at the University at Buffalo.
-I love to code, which is the superpower that moves everything forward.
-I am also a naturalist and a person who dreams to give equal education to every child. 🎈 ⚡ ✔
+I love to code and use this superpower to move everything forward. 🧚‍♀️
+
+I am also a naturalist and a person who dreams to give equal education to every child. 🎈✔
 
 
 🌱 I’m recently excited about Android development, ReactJS and Blockchain.
