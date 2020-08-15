@@ -5,7 +5,7 @@ I love to code and use this superpower to move everything forward. 🧚‍♀️
 I am also a naturalist and a person who dreams to give equal education to every child. 🎈✔
 
 
-🌱 I’m recently excited about Android development, ReactJS and Blockchain.
+🌱 I’m currently excited about Android development, ReactJS and Blockchain.
 
 👯 I’m looking for software development full time opportunities.
 
