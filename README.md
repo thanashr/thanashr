@@ -1,16 +1,54 @@
-### Hi there 👋
+### Hi there! 🙋‍♀️
+I am Thana, a budding tech enthusiast and a computer science graduate student at the University at Buffalo.
+I am also a naturalist and a person who believes that every child deserves equal opportunity for education. 🎈
+You can find me creating a huge impact on children's education in the future. ⚡ ✔
 
-<!--
-**thanashr/thanashr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Android App Developement and Web applications on React .
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Android development and Blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking for software development full time opportunities.
+
+😄 Pronouns: She / Hers.
+
+⚡ Fun fact: Our life is a part of the Nature we are surrounded by! 💚
+
+<ul>
+🛠  Tech Stack
+
+
+<li>
+💻   Python - Java - R (Statistics)
+</li>
+<li>
+🌐   ReactJS - HTML - CSS - JavaScript - Bootstrap
+</li>
+<li>
+🛢   MySQL MongoDB
+</li>
+<li>
+⚙️   Git GitHub
+</li>
+<li>
+🔧   Android Studio - VS Code - RStudio - Eclipse
+ </li>
+</ul>
+___________________________________________________________________________________________________________________________________________
+
+### Contact me here 👇
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bi3LC7lw5TemYOdFA7TxWLQ%3D%3D)
+&nbsp;
+<a href="mailto: thanashreej@gmail.com">✉ Gmail</a>
+____________________________________________________________________________________________________________________________________________________
+
+### Check my stats here 👑
+<a href="https://github.com/thanashr/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=thanashr&show_icons=true&theme=material-palenight&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/thanashr/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanashr&show_icons=true&theme=material-palenight&repo=convoychat" />
+</a>
+
+___________________________________________________________________________________________________________________________________________________________
+
+
