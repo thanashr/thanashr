@@ -3,15 +3,12 @@ I am Thana, a budding tech enthusiast and a computer science graduate student at
 I am also a naturalist and a person who believes that every child deserves equal opportunity for education. 🎈
 You can find me creating a huge impact on children's education in the future. ⚡ ✔
 
-🔭 I’m currently working on Android App Developement and Web applications on React .
 
-🌱 I’m currently learning Android development and Blockchain.
+🌱 I’m recently  Android excited about Android development, ReactJS and Blockchain.
 
 👯 I’m looking for software development full time opportunities.
 
-😄 Pronouns: She / Hers.
-
-⚡ Fun fact: Our life is a part of the Nature we are surrounded by! 💚
+🎀 Fun fact: Our life is a part of the Nature we are surrounded by! 💚
 
 <ul>
 🛠  Tech Stack
