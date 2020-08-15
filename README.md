@@ -4,7 +4,7 @@ I am also a naturalist and a person who believes that every child deserves equal
 You can find me creating a huge impact on children's education in the future. ⚡ ✔
 
 
-🌱 I’m recently  Android excited about Android development, ReactJS and Blockchain.
+🌱 I’m recently excited about Android development, ReactJS and Blockchain.
 
 👯 I’m looking for software development full time opportunities.
 
