@@ -1,7 +1,7 @@
 ### Hi there! 🙋‍♀️
 I am Thana, a budding tech enthusiast and a computer science graduate student at the University at Buffalo.
-I am also a naturalist and a person who believes that every child deserves equal opportunity for education. 🎈
-You can find me creating a huge impact on children's education in the future. ⚡ ✔
+I love to code, which is the superpower that moves everything forward.
+I am also a naturalist and a person who dreams to give equal education to every child. 🎈 ⚡ ✔
 
 
 🌱 I’m recently excited about Android development, ReactJS and Blockchain.
@@ -12,8 +12,6 @@ You can find me creating a huge impact on children's education in the future. �
 
 <ul>
 🛠  Tech Stack
-
-
 <li>
 💻   Python - Java - R (Statistics)
 </li>
@@ -21,13 +19,13 @@ You can find me creating a huge impact on children's education in the future. �
 🌐   ReactJS - HTML - CSS - JavaScript - Bootstrap
 </li>
 <li>
-🛢   MySQL MongoDB
+🛢   MySQL
 </li>
 <li>
-⚙️   Git GitHub
+⚙️   Git - GitHub 
 </li>
 <li>
-🔧   Android Studio - VS Code - RStudio - Eclipse
+🔧   Android Studio - VS Code - RStudio - Eclipse - BluePrism - UIPath
  </li>
 </ul>
 ___________________________________________________________________________________________________________________________________________
